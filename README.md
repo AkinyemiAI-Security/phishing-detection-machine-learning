@@ -7,6 +7,9 @@ This project uses machine learning techniques to detect phishing attacks based o
 - Machine learning classification
 - Feature extraction from URLs
 
+## 📊 Model Used
+- Random Forest Classifier
+  
 ## 🛠 Technologies Used
 - Python
 - Scikit-learn
