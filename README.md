@@ -1,5 +1,8 @@
 # Phishing Detection using Machine Learning 🎯
 
+## 📄 Related Research
+This project is inspired by my research on machine learning applications in cybersecurity and phishing detection.
+
 This project implements a machine learning-based system for detecting phishing URLs using extracted features and classification models.
 
 ## 🚀 Features
