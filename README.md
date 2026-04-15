@@ -1,19 +1,20 @@
 # Phishing Detection using Machine Learning 🎯
 
-This project uses machine learning techniques to detect phishing attacks based on URL features.
+This project implements a machine learning-based system for detecting phishing URLs using extracted features and classification models.
 
 ## 🚀 Features
-- Detect phishing URLs
-- Machine learning classification
-- Feature extraction from URLs
+- URL-based phishing detection
+- Feature extraction (URL length, HTTPS, special characters)
+- Machine learning classification using Random Forest
+- Model evaluation (accuracy score)
 
-## 📊 Model Used
-- Random Forest Classifier
-  
 ## 🛠 Technologies Used
 - Python
 - Scikit-learn
 - Pandas
+
+## 📊 Model Used
+- Random Forest Classifier
 
 ⚠️ Disclaimer
 This project is for educational and cybersecurity research purposes only.
