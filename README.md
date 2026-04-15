@@ -27,12 +27,12 @@ This project implements a machine learning-based system for detecting phishing U
 - Improve feature engineering
 - Apply deep learning models
 - Integrate real-time detection system
+  
 ⚠️ Disclaimer
 This project is for educational and cybersecurity research purposes only.
 
 👨‍💻 Author
 Dr. Abiola Akinyemi
-
 
 ## ▶️ How to Run
 ```bash
