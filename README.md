@@ -28,7 +28,7 @@ This project implements a machine learning-based system for detecting phishing U
 - Apply deep learning models
 - Integrate real-time detection system
   
-⚠️ Disclaimer
+⚠️ Disclaimer:
 This project is for educational and cybersecurity research purposes only.
 
 👨‍💻 Author
